@@ -12,7 +12,7 @@ This project demonstrates how to build a **Multimodal RAG (Retrieval-Augmented G
 ### 🚀 Quick Start  
 
 1. **Prerequisites**
-  - Python 3.8+
+  - Python 3.10+
 2. **Clone repository**
   - git clone https://github.com/Mercytopsy/Multimodal-RAG-Pipeline.git
   - cd Multimodal-RAG-Pipeline
