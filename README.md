@@ -3,7 +3,7 @@
 This project demonstrates how to build a **Multimodal RAG (Retrieval-Augmented Generation)** pipeline using [LangChain](https://python.langchain.com/) to process **PDF documents** (text + tables + images) with the [Unstructured](https://unstructured.io/) library.  
 
 ### ✨ Features  
-- **Extract text and images** from PDFs using `Unstructured. '  
+- **Extract text, tables and images** from PDFs using `Unstructured. '  
 - **Retriever-augmented generation (RAG)** pipeline for multimodal content.  
 - **LangChain integration** for document processing and retrieval  
 - **Question-answering** to process, find, and answer questions about documents.
