@@ -17,5 +17,7 @@ This project demonstrates how to build a **Multimodal RAG (Retrieval-Augmented G
   - git clone https://github.com/Mercytopsy/Multimodal-RAG-Pipeline.git
   - cd Multimodal-RAG-Pipeline
 2. **Install dependencies**
-  - pip install -r requirements.txt  
+  - pip install -r requirements.txt
+
+### [Watch the demo here](https://youtu.be/jgqe9dMeacQ?si=7xt7GKwCUDdgiisY)
    
