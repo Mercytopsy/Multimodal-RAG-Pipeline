@@ -19,7 +19,5 @@ This project demonstrates how to build a **Multimodal RAG (Retrieval-Augmented G
 2. **Install dependencies**
   - pip install -r requirements.txt
 
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube demo" frameborder="0" allowfullscreen></iframe>
-</div>
+[![Watch the video](https://img.youtube.com/vi/jgqe9dMeacQ/maxresdefault.jpg)](https://youtu.be/jgqe9dMeacQ)
    
